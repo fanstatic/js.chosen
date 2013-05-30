@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-0.9.14 (unreleased)
+0.9.14 (2013-05-30)
 ===================
 
 - Update resources to version 0.9.14.
