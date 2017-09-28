@@ -1,10 +1,10 @@
 CHANGES
 *******
 
-1.8.1 (unreleased)
+1.8.2 (unreleased)
 ===================
 
-- Update resources to version 1.8.1.
+- Update resources to version 1.8.2.
 
 
 0.9.14 (2013-05-30)
