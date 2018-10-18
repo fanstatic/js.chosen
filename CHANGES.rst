@@ -1,7 +1,7 @@
 CHANGES
 *******
 
-1.8.7 (unreleased)
+1.8.7 (2018-10-18)
 ==================
 
 - Update resources to version 1.8.7.
